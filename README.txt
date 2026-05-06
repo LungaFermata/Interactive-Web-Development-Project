@@ -1,4 +1,4 @@
-
+Contains the SQL creation script and all webpages nessicary to create a website on the xampp devstack, though configuration changes are nessicary as it uses a non-default port.
 
 
 Resources Used:
